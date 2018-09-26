@@ -1,0 +1,1430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="es-es">
+    <body>
+      <trans-unit id="newLabSectionLabel" datatype="html">
+        <source>New lab</source>
+        <target state="translated">Nuevo laboratorio</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-create-form/lab-create-form.component.html</context><context context-type="linenumber">5</context></context-group></trans-unit>
+      <trans-unit id="LabCreatePageOneLabNameTitle" datatype="html">
+        <source>Lab name</source>
+        <target state="translated">Asigne un nombre al laboratorio</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-create-form/lab-create-form.component.html</context><context context-type="linenumber">21</context></context-group></trans-unit>
+      <trans-unit id="chooseVirtualMachineSizeLabel" datatype="html">
+        <source>
+        Which virtual machine size do you need?
+    </source>
+        <target state="translated">Elegir el tamaño de la máquina virtual</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">302</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/template-wizard/steps/template-size-and-image/template-size-and-image.component.html</context><context context-type="linenumber">18</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/template-wizard/steps/template-size-and-image/template-size-and-image.component.html</context><context context-type="linenumber">21</context></context-group></trans-unit>
+      <trans-unit id="chooseVirtualMachineImageLabel" datatype="html">
+        <source>
+        Which virtual machine image do you want to use?
+    </source>
+        <target state="translated">Elegir la imagen de la máquina virtual</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">306</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/template-wizard/steps/template-size-and-image/template-size-and-image.component.html</context><context context-type="linenumber">43</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/template-wizard/steps/template-size-and-image/template-size-and-image.component.html</context><context context-type="linenumber">48</context></context-group></trans-unit>
+      <trans-unit id="defaultAccessLabel" datatype="html">
+        <source>
+        Credentials
+    </source>
+        <target state="translated">Credenciales</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">314</context></context-group></trans-unit>
+      <trans-unit id="marketplaceImageDisclaimer" datatype="html">
+        <source>
+        Marketplace image selection only
+    </source>
+        <target state="translated">(Solo selección de imagen de Marketplace)</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">318</context></context-group></trans-unit>
+      <trans-unit id="defaultCredentials" datatype="html">
+        <source>
+        Set the default credentials for all virtual machines.
+    </source>
+        <target state="translated">Tome nota de esta contraseña. No volverá a mostrarse.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">322</context></context-group></trans-unit>
+      <trans-unit id="LabCreatePageOneLabUserName" datatype="html">
+        <source>User name</source>
+        <target state="translated">Nombre de usuario</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-create-form/lab-create-form.component.html</context><context context-type="linenumber">98</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/template-wizard/steps/lab-credentials/lab-credentials.component.html</context><context context-type="linenumber">15</context></context-group></trans-unit>
+
+      <trans-unit id="LabCreateFormLabpassword" datatype="html">
+        <source>Password</source>
+        <target state="translated">Contraseña</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-create-form/lab-create-form.component.html</context><context context-type="linenumber">107</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/template-wizard/steps/lab-credentials/lab-credentials.component.html</context><context context-type="linenumber">23</context></context-group></trans-unit>
+      <trans-unit id="save" datatype="html">
+        <source>Save</source>
+        <target state="translated">Guardar</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">4</context></context-group></trans-unit>
+      <trans-unit id="discard" datatype="html">
+        <source>Discard</source>
+        <target state="translated">Descartar</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">6</context></context-group></trans-unit>
+      <trans-unit id="errorNameMaxCharacters" datatype="html">
+        <source>Name can only include 250 characters.</source>
+        <target state="translated">El nombre solo puede incluir 250 caracteres.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">10</context></context-group></trans-unit>
+      <trans-unit id="errorNameWhitespace" datatype="html">
+        <source>Name has to include at least one non-whitespace character.</source>
+        <target state="translated">El nombre debe incluir como mínimo un carácter que no sea un espacio en blanco.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">18</context></context-group></trans-unit>
+      <trans-unit id="sizeAndQuantity" datatype="html">
+        <source>Size and quantity</source>
+        <target state="translated">Tamaño y cantidad</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">20</context></context-group></trans-unit>
+      <trans-unit id="image" datatype="html">
+        <source>Image</source>
+        <target state="translated">Imagen</target>
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">22</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-list/lab-list-table/lab-list-table.component.html</context><context context-type="linenumber">47</context></context-group></trans-unit>
+      <trans-unit id="error" datatype="html">
+        <source>Error</source>
+        <target state="translated">Error</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">24</context></context-group></trans-unit>
+      <trans-unit id="myLabs" datatype="html">
+        <source>My labs</source>
+        <target state="translated">Mis laboratorios</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">26</context></context-group></trans-unit>
+      <trans-unit id="labUserRegistration" datatype="html">
+        <source>Lab user registration</source>
+        <target state="translated">Registro de usuario del laboratorio</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">28</context></context-group></trans-unit>
+      <trans-unit id="inviteMessage" datatype="html">
+        <source>Invite message</source>
+        <target state="translated">Mensaje de invitación</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">30</context></context-group></trans-unit>
+      <trans-unit id="overview" datatype="html">
+        <source>Overview</source>
+        <target state="translated">Introducción</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">32</context></context-group></trans-unit>
+      <trans-unit id="virtualMachine" datatype="html">
+        <source>Virtual machine</source>
+        <target state="translated">Máquina virtual</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">34</context></context-group></trans-unit>
+      <trans-unit id="myVirtualMachines" datatype="html">
+        <source>My virtual machines</source>
+        <target state="translated">Mis máquinas virtuales</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">36</context></context-group></trans-unit>
+      <trans-unit id="copy" datatype="html">
+        <source>Copy</source>
+        <target state="translated">Copiar</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">38</context></context-group></trans-unit>
+      <trans-unit id="labAlreadyExists" datatype="html">
+        <source>Lab already exists, try another name</source>
+        <target state="translated">El laboratorio ya existe. Inténtelo con otro nombre.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">46</context></context-group></trans-unit>
+      <trans-unit id="welcomePageTitleMessage" datatype="html">
+        <source>Welcome to Azure Lab Services</source>
+        <target state="translated">Azure Lab Services</target>
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">48</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/welcome/components/welcome-page/welcome-page.component.html</context><context context-type="linenumber">7</context></context-group></trans-unit>
+      <trans-unit id="newLab" datatype="html">
+        <source>New lab</source>
+        <target state="translated">Nuevo laboratorio</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">50</context></context-group></trans-unit>
+      <trans-unit id="labAccountInaccessible" datatype="html">
+        <source>Your lab account is missing or inaccessible.</source>
+        <target state="translated">Su cuenta del laboratorio falta o es inaccesible.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">52</context></context-group></trans-unit>
+      <trans-unit id="CreateLabHeader" datatype="html">
+        <source>This is a quick setup you can change your settings later.</source>
+        <target state="translated">Esta es una configuración rápida que puede modificar más adelante.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">54</context></context-group></trans-unit>
+      <trans-unit id="requiredLabel" datatype="html">
+        <source>Required</source>
+        <target state="translated">Obligatorio</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">60</context></context-group></trans-unit>
+      <trans-unit id="untitledLab" datatype="html">
+        <source>Untitled lab</source>
+        <target state="translated">Laboratorio sin título</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">62</context></context-group></trans-unit>
+      <trans-unit id="labInaccessible" datatype="html">
+        <source>Your lab is missing or inaccessible.</source>
+        <target state="translated">Su laboratorio falta o es inaccesible.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">64</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">290</context></context-group></trans-unit>
+      <trans-unit id="unknownErrorText" datatype="html">
+        <source>An unknown error was thrown while contacting the server.</source>
+        <target state="translated">Se produjo un error desconocido al contactar con el servidor.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">66</context></context-group></trans-unit>
+      <trans-unit id="pageNotExists" datatype="html">
+        <source>
+    The page you have requested does not exist or is not currently available.
+</source>
+        <target state="translated">
+    La página que ha solicitado no existe o no está disponible actualmente.
+</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/error/page-not-found/page-not-found.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
+      <trans-unit id="signOut" datatype="html">
+        <source>
+        Sign out
+    </source>
+        <target state="translated">Cerrar sesión</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">326</context></context-group></trans-unit>
+
+
+      <trans-unit id="emptyLabListMessage" datatype="html">
+        <source>No labs found</source>
+        <target state="translated">No se encontró ningún laboratorio.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-list/lab-list.component.html</context><context context-type="linenumber">8</context></context-group></trans-unit>
+      <trans-unit id="nameTitle" datatype="html">
+        <source> Name </source>
+        <target state="translated"> Nombre </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-list/lab-list-table/lab-list-table.component.html</context><context context-type="linenumber">11</context></context-group></trans-unit>
+      <trans-unit id="size" datatype="html">
+        <source> Size </source>
+        <target state="translated"> Tamaño </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-list/lab-list-table/lab-list-table.component.html</context><context context-type="linenumber">38</context></context-group></trans-unit>
+      <trans-unit id="maxMachines" datatype="html">
+        <source> Max machines </source>
+        <target state="translated"> Número máximo de máquinas </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-list/lab-list-table/lab-list-table.component.html</context><context context-type="linenumber">56</context></context-group></trans-unit>
+      <trans-unit id="DeleteLabLabel" datatype="html">
+        <source>Delete</source>
+        <target state="translated">Eliminar</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-card/lab-card.component.html</context><context context-type="linenumber">69</context></context-group></trans-unit>
+      <trans-unit id="labNameWillBeDeletedMessage" datatype="html">
+        <source>The lab <x id="INTERPOLATION" equiv-text="{{lab.name}}" /> and its virtual machines will be permanently deleted.
+        Do you want to continue?</source>
+        <target state="translated">El laboratorio <x id="INTERPOLATION" equiv-text="{{lab.name}}" /> y sus máquinas virtuales se eliminarán de manera permanente.
+                ¿Quiere continuar?</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-card/lab-card.component.html</context><context context-type="linenumber">38</context></context-group></trans-unit>
+      <trans-unit id="deleteLabDialogTitle" datatype="html">
+        <source>Delete lab</source>
+        <target state="translated">Eliminar laboratorio</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-card/lab-card.component.html</context><context context-type="linenumber">41</context></context-group></trans-unit>
+      <trans-unit id="deleteLabDialogConfirmationText" datatype="html">
+        <source>Delete</source>
+        <target state="translated">Eliminar</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-card/lab-card.component.html</context><context context-type="linenumber">43</context></context-group></trans-unit>
+      <trans-unit id="deleteLabDialogCancellationText" datatype="html">
+        <source>Cancel</source>
+        <target state="translated">Cancelar</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-card/lab-card.component.html</context><context context-type="linenumber">45</context></context-group></trans-unit>
+      <trans-unit id="perHour" datatype="html">
+        <source>per hour</source>
+        <target state="translated">por hora</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/vm-size/components/vm-size-picker/vm-size-picker.component.html</context><context context-type="linenumber">35</context></context-group></trans-unit>
+      <trans-unit id="numberOfCores" datatype="html">
+        <source>Cores</source>
+        <target state="translated">Núcleos</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/vm-size/components/vm-size-picker/vm-size-picker.component.html</context><context context-type="linenumber">42</context></context-group></trans-unit>
+      <trans-unit id="amountOfRam" datatype="html">
+        <source>RAM</source>
+        <target state="translated">RAM</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/vm-size/components/vm-size-picker/vm-size-picker.component.html</context><context context-type="linenumber">52</context></context-group></trans-unit>
+      <trans-unit id="unsavedChangesForm" datatype="html">
+        <source>This form has unsaved changes.</source>
+        <target state="translated">El formulario tiene cambios sin guardar.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">56</context></context-group></trans-unit>
+      <trans-unit id="labDeletionFailed" datatype="html">
+        <source>Lab could not be deleted. Please try again.</source>
+        <target state="translated">El laboratorio no se pudo eliminar. Inténtelo de nuevo.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">68</context></context-group></trans-unit>
+      <trans-unit id="labCreatePageLabNameRequired" datatype="html">
+        <source>Lab name is required</source>
+        <target state="translated">El nombre del laboratorio es obligatorio.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">70</context></context-group></trans-unit>
+      <trans-unit id="labCreateFormUsernameMaxLen" datatype="html">
+        <source>Username cannot be longer than 20 characters</source>
+        <target state="translated">El nombre de usuario no puede tener más de 20 caracteres.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">72</context></context-group></trans-unit>
+      <trans-unit id="labCreateFormUsernameRequired" datatype="html">
+        <source>Username is required</source>
+        <target state="translated">El nombre de usuario es obligatorio.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">74</context></context-group></trans-unit>
+      <trans-unit id="blockedPassword" datatype="html">
+        <source>Commonly used passwords are not acceptable</source>
+        <target state="translated">No se aceptan contraseñas usadas habitualmente.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">82</context></context-group></trans-unit>
+      <trans-unit id="matchPassword" datatype="html">
+        <source>Passwords must match</source>
+        <target state="translated">Las contraseñas deben coincidir.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">84</context></context-group></trans-unit>
+      <trans-unit id="createLabInvalidPassword" datatype="html">
+        <source>
+        Password must include 3 of the following: a number, uppercase character, lowercase character, and a special character
+    </source>
+        <target state="translated">La contraseña debe incluir 3 de los elementos siguientes: un número, un carácter en mayúsculas, un carácter en minúsculas y un carácter especial.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">86</context></context-group></trans-unit>
+
+
+
+      <trans-unit id="setUsagePolicy" datatype="html">
+        <source>Usage policy</source>
+        <target state="translated">Directiva de uso</target>
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-dashboard/lab-dashboard.component.html</context><context context-type="linenumber">32</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-dashboard/lab-dashboard.component.html</context><context context-type="linenumber">41</context></context-group></trans-unit>
+      <trans-unit id="settings" datatype="html">
+        <source>Settings</source>
+        <target state="translated">Configuración</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-dashboard/lab-dashboard.component.html</context><context context-type="linenumber">20</context></context-group></trans-unit>
+      <trans-unit id="RetypeFormLabpassword" datatype="html">
+        <source>Confirm password</source>
+        <target state="translated">Confirmar contraseña</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-create-form/lab-create-form.component.html</context><context context-type="linenumber">116</context></context-group></trans-unit>
+      <trans-unit id="labCardOptionsAriaLabel" datatype="html">
+        <source>Lab card options</source>
+        <target state="translated">Opciones de tarjeta de laboratorio</target>
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-card/lab-card.component.html</context><context context-type="linenumber">52</context></context-group></trans-unit>
+      <trans-unit id="labNameMustBeUnique" datatype="html">
+        <source>This lab name already exists. Please use another name.</source>
+        <target state="translated">Este nombre de laboratorio ya existe. Use otro nombre.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">92</context></context-group></trans-unit>
+      <trans-unit id="unableToValidateLabName" datatype="html">
+        <source>Could not validate lab name</source>
+        <target state="translated">No se pudo validar el nombre del laboratorio.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">94</context></context-group></trans-unit>
+      <trans-unit id="unknownError" datatype="html">
+        <source>An unknown error has occurred</source>
+        <target state="translated">Se produjo un error desconocido.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">96</context></context-group></trans-unit>
+      <trans-unit id="maximumNumberOfUsers" datatype="html">
+        <source>Set the maximum number of users allowed into the lab</source>
+        <target state="translated">¿Cuál es el número máximo de usuarios permitido en el laboratorio?</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-create-form/lab-create-form.component.html</context><context context-type="linenumber">31</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-usage-policy/lab-usage-policy.component.html</context><context context-type="linenumber">14</context></context-group></trans-unit>
+      <trans-unit id="numberOfUsers" datatype="html">
+        <source>Number of users</source>
+        <target state="translated">Número de usuarios</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-create-form/lab-create-form.component.html</context><context context-type="linenumber">36</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-usage-policy/lab-usage-policy.component.html</context><context context-type="linenumber">19</context></context-group></trans-unit>
+      <trans-unit id="usagePolicy" datatype="html">
+        <source>Usage policy</source>
+        <target state="translated">Directiva de uso</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-usage-policy/lab-usage-policy.component.html</context><context context-type="linenumber">5</context></context-group></trans-unit>
+      <trans-unit id="labItemsTitle" datatype="html">
+        <source>Template</source>
+        <target state="translated">Plantilla</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-dashboard/lab-dashboard.component.html</context><context context-type="linenumber">71</context></context-group></trans-unit>
+      <trans-unit id="maxUsersValidation" datatype="html">
+        <source>The number of users in this lab must be between 1 and</source>
+        <target state="translated">El número máximo de usuarios del laboratorio no puede ser superior a 5.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">99</context></context-group></trans-unit>
+      <trans-unit id="fieldIsRequired" datatype="html">
+        <source>Field is required</source>
+        <target state="translated">El campo es obligatorio.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">123</context></context-group></trans-unit>
+      <trans-unit id="maxLabNameLength" datatype="html">
+        <source>Lab name cannot be longer than 256 characters</source>
+        <target state="translated">El nombre del laboratorio no puede tener más de 260 caracteres.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">125</context></context-group></trans-unit>
+      <trans-unit id="labNameSpecialChars" datatype="html">
+        <source>Lab name cannot contain special characters</source>
+        <target state="translated">El nombre del laboratorio no puede contener caracteres especiales.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">127</context></context-group></trans-unit>
+      <trans-unit id="cancel" datatype="html">
+        <source>Cancel</source>
+        <target state="translated">Cancelar</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">8</context></context-group></trans-unit>
+      <trans-unit id="availableToUsers" datatype="html">
+        <source>Available to users</source>
+        <target state="translated">Disponible para los usuarios</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">133</context></context-group></trans-unit>
+      <trans-unit id="notAvailableToUsers" datatype="html">
+        <source>Not available to users</source>
+        <target state="translated">No disponible para los usuarios</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">135</context></context-group></trans-unit>
+      <trans-unit id="availability" datatype="html">
+        <source>Availability</source>
+        <target state="translated">Disponibilidad</target>
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">137</context></context-group></trans-unit>
+      <trans-unit id="sessionExpired" datatype="html">
+        <source>You are not authorized to access this resource, or your session has expired.</source>
+        <target state="translated">No tiene autorización para acceder a este recurso o su sesión ha caducado.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">139</context></context-group></trans-unit>
+      <trans-unit id="labCreateFormPasswordLen" datatype="html">
+        <source>Password must be between 8 and 123 characters</source>
+        <target state="translated">La contraseña debe tener entre 8 y 123 caracteres.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">143</context></context-group></trans-unit>
+      <trans-unit id="linuxLabCreateFormPasswordLen" datatype="html">
+        <source>Password must be between 6 and 72 characters</source>
+        <target state="translated">La contraseña debe tener entre 6 y 72 caracteres.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">145</context></context-group></trans-unit>
+      <trans-unit id="unableToValidateReservedUserName" datatype="html">
+        <source>Username cannot be reserved keywords</source>
+        <target state="translated">El nombre de usuario no puede ser una palabra clave reservada</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">78</context></context-group></trans-unit>
+      <trans-unit id="inviteUsersToLab" datatype="html">
+        <source>User registration</source>
+        <target state="translated">Registro de usuario</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">147</context></context-group></trans-unit>
+      <trans-unit id="close" datatype="html">
+        <source>Close</source>
+        <target state="translated">Cerrar</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">149</context></context-group></trans-unit>
+      <trans-unit id="userRegistration" datatype="html">
+        <source>User registration</source>
+        <target state="translated">Registro de usuario</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-dashboard/lab-dashboard.component.html</context><context context-type="linenumber">48</context></context-group></trans-unit>
+      <trans-unit id="clickToCopyLink" datatype="html">
+        <source>Add users to your lab</source>
+        <target state="translated">Agregar usuarios al laboratorio</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-dashboard/lab-dashboard.component.html</context><context context-type="linenumber">50</context></context-group></trans-unit>
+      
+      <trans-unit id="basic" datatype="html">
+        <source>Small</source>
+        <target state="translated">Básico</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">12</context></context-group></trans-unit>
+      <trans-unit id="standard" datatype="html">
+        <source>Medium</source>
+        <target state="translated">Estándar</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">14</context></context-group></trans-unit>
+
+      <trans-unit id="performance" datatype="html">
+        <source>Large</source>
+        <target state="translated">Rendimiento</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">16</context></context-group></trans-unit>
+      <trans-unit id="websiteTitle" datatype="html">
+        <source>Azure Lab Services</source>
+        <target state="translated">Azure Lab Services</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">58</context></context-group></trans-unit>
+      <trans-unit id="setScheduleTitle" datatype="html">
+        <source>Schedule</source>
+        <target state="translated">Programar</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-dashboard/lab-dashboard.component.html</context><context context-type="linenumber">54</context></context-group></trans-unit>
+      <trans-unit id="setScheduleLabel" datatype="html">
+        <source>Auto shutdown at 8:00 PM</source>
+        <target state="translated">Apagado automático a las 20:00</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-dashboard/lab-dashboard.component.html</context><context context-type="linenumber">56</context></context-group></trans-unit>
+
+      <trans-unit id="connectLinuxVm" datatype="html">
+        <source>Connect to your virtual machine</source>
+        <target state="translated">Conectarse a la máquina virtual</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">76</context></context-group></trans-unit>
+      <trans-unit id="connectLinuxMessage" datatype="html">
+        <source>To connect to your Linux virtual machine using SSH, use the following command:
+</source>
+        <target state="translated">Para conectarse a su máquina virtual Linux mediante SSH, use el comando siguiente:
+</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/environment/components/connect-linux-vm/connect-linux-vm.component.html</context><context context-type="linenumber">2</context></context-group></trans-unit>
+      <trans-unit id="registrationError" datatype="html">
+        <source>Registration failed. Please contact the lab owner.</source>
+        <target state="translated">Error de registro. Póngase en contacto con el propietario del laboratorio.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">159</context></context-group></trans-unit>
+      <trans-unit id="registering" datatype="html">
+        <source>Registering...</source>
+        <target state="translated">Registrando...</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">161</context></context-group></trans-unit>
+      <trans-unit id="noUsersAllowed" datatype="html">
+        <source>No users allowed</source>
+        <target state="translated">No se permiten usuarios</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-dashboard/lab-dashboard.component.html</context><context context-type="linenumber">34</context></context-group></trans-unit>
+      <trans-unit id="registrationMessage" datatype="html">
+        <source>
+        Registering to the lab
+    </source>
+        <target state="translated">Realizando el registro en el laboratorio</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/register/components/register.component.html</context><context context-type="linenumber">7</context></context-group></trans-unit>
+      <trans-unit id="templateAvailPrivateLabel" datatype="html">
+        <source>Not published</source>
+        <target state="translated">Privada</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/template/availability-form/availability-form.component.html</context><context context-type="linenumber">23</context></context-group></trans-unit>
+      <trans-unit id="templateAvailPrivateDescription" datatype="html">
+        <source>Users do not have access to this template.</source>
+        <target state="translated">Los usuarios no tienen acceso a esta plantilla.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/template/availability-form/availability-form.component.html</context><context context-type="linenumber">26</context></context-group></trans-unit>
+      <trans-unit id="templateAvailPublicLabel" datatype="html">
+        <source>Published</source>
+        <target state="translated">Pública</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/template/availability-form/availability-form.component.html</context><context context-type="linenumber">29</context></context-group></trans-unit>
+      <trans-unit id="templateAvailPublicDescription" datatype="html">
+        <source>Each user gets an instance of this template.</source>
+        <target state="translated">Cada usuario obtiene una instancia de esta plantilla.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/template/availability-form/availability-form.component.html</context><context context-type="linenumber">32</context></context-group></trans-unit>
+      <trans-unit id="publicStatus" datatype="html">
+        <source>Public</source>
+        <target state="translated">Pública</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">129</context></context-group></trans-unit>
+      <trans-unit id="privateStatus" datatype="html">
+        <source>Private</source>
+        <target state="translated">Privada</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">131</context></context-group></trans-unit>
+      <trans-unit id="publicAvailabilityDescription" datatype="html">
+        <source>A publicly available template can't be changed to private</source>
+        <target state="translated">Una plantilla disponible públicamente no se puede cambiar a privada.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">163</context></context-group></trans-unit>
+      <trans-unit id="userViewFormDescription" datatype="html">
+        <source>Provide a name and description for your template that users will see.</source>
+        <target state="translated">Proporcione el nombre y la descripción de la plantilla que desea que se muestre a los usuarios.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">151</context></context-group></trans-unit>
+      <trans-unit id="templateTitleNameTooLong" datatype="html">
+        <source>Title cannot exceed 255 characters</source>
+        <target state="translated">El título no puede tener más de 255 caracteres.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">153</context></context-group></trans-unit>
+      <trans-unit id="templateTitleRequired" datatype="html">
+        <source>Template title is required</source>
+        <target state="translated">El título de la plantilla es obligatorio.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">155</context></context-group></trans-unit>
+      <trans-unit id="templateDescription" datatype="html">
+        <source>Description cannot exceed 500 characters.</source>
+        <target state="translated">La descripción no puede tener más de 500 caracteres.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">157</context></context-group></trans-unit>
+      <trans-unit id="userView" datatype="html">
+        <source>Template details</source>
+        <target state="translated">Detalles de la plantilla</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/template/template-information-update/template-information-update.component.html</context><context context-type="linenumber">5</context></context-group></trans-unit>
+      <trans-unit id="TemplateTitle" datatype="html">
+        <source>Title of your template</source>
+        <target state="translated">Título de la plantilla</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/template/template-information-update/template-information-update.component.html</context><context context-type="linenumber">20</context></context-group></trans-unit>
+      <trans-unit id="TemplateDescription" datatype="html">
+        <source>Description of your template</source>
+        <target state="translated">Descripción de la plantilla</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/template/template-information-update/template-information-update.component.html</context><context context-type="linenumber">28</context></context-group></trans-unit>
+      <trans-unit id="privateAvailabilityDescription" datatype="html">
+        <source>A published template can't be unpublished.</source>
+        <target state="translated">Una vez que la plantilla esté disponible públicamente, no se puede cambiar a privada.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">167</context></context-group></trans-unit>
+      <trans-unit id="userViewDescription" datatype="html">
+        <source>Set description for users</source>
+        <target state="translated">Establecer la descripción para los usuarios</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">169</context></context-group></trans-unit>
+      <trans-unit id="labLoadError" datatype="html">
+        <source>One or more of your environments could not be loaded</source>
+        <target state="translated">Uno o varios de sus entornos no se pudieron cargar.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">90</context></context-group></trans-unit>
+      <trans-unit id="virtualMachineName" datatype="html">
+        <source>Virtual machine</source>
+        <target state="translated">Máquina virtual</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/template/template-resource/template-resource.component.html</context><context context-type="linenumber">6</context></context-group></trans-unit>
+      <trans-unit id="templateCoresDetails" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{cores}}" /> cores</source>
+        <target state="translated"><x id="INTERPOLATION" equiv-text="{{cores}}" /> núcleos</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/template/template-resource/template-resource.component.html</context><context context-type="linenumber">16</context></context-group></trans-unit>
+      <trans-unit id="templateSeparator" datatype="html">
+        <source> | </source>
+        <target state="translated"> | </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/template/template-resource/template-resource.component.html</context><context context-type="linenumber">17</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/template/template-resource/template-resource.component.html</context><context context-type="linenumber">19</context></context-group></trans-unit>
+      <trans-unit id="templateMemoryDetails" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ram}}" /> RAM</source>
+        <target state="translated">RAM: <x id="INTERPOLATION" equiv-text="{{ram}}" /></target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/template/template-resource/template-resource.component.html</context><context context-type="linenumber">18</context></context-group></trans-unit>
+      <trans-unit id="entityListLoadingMessage" datatype="html">
+        <source>Loading...</source>
+        <target state="translated">Cargando...</target>
+
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/form/components/breadcrumb/breadcrumb.component.html</context><context context-type="linenumber">24</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/form/components/page/page.component.html</context><context context-type="linenumber">21</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/form/components/lab-picker/lab-picker.component.html</context><context context-type="linenumber">25</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/list/components/entity-list/entity-list.component.html</context><context context-type="linenumber">7</context></context-group></trans-unit>
+      <trans-unit id="welcomePageLoadingMessage" datatype="html">
+        <source>Loading...</source>
+        <target state="translated">Cargando...</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/welcome/components/welcome-page/welcome-page.component.html</context><context context-type="linenumber">12</context></context-group></trans-unit>
+      <trans-unit id="templateImageDetails" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ imageName }}" /></source>
+        <target state="translated"><x id="INTERPOLATION" equiv-text="{{ imageName }}" /></target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/template/template-resource/template-resource.component.html</context><context context-type="linenumber">20</context></context-group></trans-unit>
+      <trans-unit id="connectingEnvironment" datatype="html">
+        <source>Connecting...</source>
+        <target state="translated">Conectando...</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">173</context></context-group></trans-unit>
+      <trans-unit id="templateAvailDescription" datatype="html">
+        <source>Allow users access to an instance of this template</source>
+        <target state="translated">Permitir que los usuarios accedan a una instancia de esta plantilla</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/template/availability-form/availability-form.component.html</context><context context-type="linenumber">15</context></context-group></trans-unit>
+      <trans-unit id="startingVirtualMachine" datatype="html">
+        <source>Starting your virtual machine...</source>
+        <target state="translated">Iniciando la máquina virtual...</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">177</context></context-group></trans-unit>
+
+      <trans-unit id="stoppingVirtualMachine" datatype="html">
+        <source>Stopping your virtual machine...</source>
+        <target state="translated">Deteniendo la máquina virtual...</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">179</context></context-group></trans-unit>
+
+      <trans-unit id="corruptedLab" datatype="html">
+        <source>Your lab is in a corrupted state. Contact your administrator...</source>
+        <target state="translated">El laboratorio está dañado. Póngase en contacto con el administrador...</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">171</context></context-group></trans-unit>
+      <trans-unit id="labInfo" datatype="html">
+        <source>Lab info</source>
+        <target state="translated">Información del laboratorio</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-dashboard/lab-dashboard.component.html</context><context context-type="linenumber">64</context></context-group></trans-unit>
+      <trans-unit id="labInformationLabel" datatype="html">
+        <source>Lab information</source>
+        <target state="translated">Información del laboratorio</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-dashboard/lab-dashboard.component.html</context><context context-type="linenumber">66</context></context-group></trans-unit>
+      <trans-unit id="gettingVmReady" datatype="html">
+        <source>Getting your virtual machine ready...</source>
+        <target state="translated">Preparando la máquina virtual...</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">175</context></context-group></trans-unit>
+      <trans-unit id="unableToGetVirtualMachine" datatype="html">
+        <source>Your virtual machine is not yet available for use. Please check again later.</source>
+        <target state="translated">La máquina virtual aún no está disponible para usarse. Vuelva a comprobarlo más tarde.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">181</context></context-group></trans-unit>
+      <trans-unit id="labCreateFormUsernameMaxLenLinux" datatype="html">
+        <source>Username cannot be longer than 64 characters</source>
+        <target state="translated">El nombre de usuario no puede tener más de 64 caracteres.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">187</context></context-group></trans-unit>
+      <trans-unit id="invalidUserNameCharacters" datatype="html">
+        <source>Username must be made up of letters, numbers, and symbols</source>
+        <target state="translated">El nombre de usuario debe contener letras, números y símbolos.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">189</context></context-group></trans-unit>
+      <trans-unit id="virtualMachineInFailedState" datatype="html">
+        <source>Virtual machine in failed state. Contact your administrator.</source>
+        <target state="translated">La máquina virtual está en estado de error. Póngase en contacto con el administrador.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">183</context></context-group></trans-unit>
+      <trans-unit id="unableToConnectVm" datatype="html">
+        <source>An error occurred while attempting to connect to the virtual machine.</source>
+        <target state="translated">Se produjo un error al intentar conectarse a la máquina virtual.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">195</context></context-group></trans-unit>
+      <trans-unit id="startVmLabel" datatype="html">
+        <source>Start</source>
+        <target state="translated">Iniciar</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">40</context></context-group></trans-unit>
+      <trans-unit id="stopVmLabel" datatype="html">
+        <source>Stop</source>
+        <target state="translated">Detener</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">42</context></context-group></trans-unit>
+      <trans-unit id="connectVmLabel" datatype="html">
+        <source>Connect</source>
+        <target state="translated">Conectar</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">44</context></context-group></trans-unit>
+      <trans-unit id="chooseVirtualMachineRegion" datatype="html">
+        <source>
+        In what region do you want to create the virtual machines?
+    </source>
+        <target state="translated">Elegir la región de la máquina virtual</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">310</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/template-wizard/steps/template-size-and-image/template-size-and-image.component.html</context><context context-type="linenumber">30</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/template-wizard/steps/template-size-and-image/template-size-and-image.component.html</context><context context-type="linenumber">35</context></context-group></trans-unit>
+      <trans-unit id="yourLabRegion" datatype="html">
+        <source>Virtual machines will be created in
+          <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" /><x id="INTERPOLATION" equiv-text="{{region}}" /><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" />.</source>
+        <target state="translated">Las máquinas virtuales se crearán en
+          <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" /><x id="INTERPOLATION" equiv-text="{{region}}" /><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" />.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-info/lab-info.component.html</context><context context-type="linenumber">11</context></context-group></trans-unit>
+      <trans-unit id="labInformation" datatype="html">
+        <source>Lab information</source>
+        <target state="translated">Información del laboratorio</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-info/lab-info.component.html</context><context context-type="linenumber">3</context></context-group></trans-unit>
+      <trans-unit id="login" datatype="html">
+        <source>Sign in</source>
+        <target state="translated">Iniciar sesión</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">141</context></context-group></trans-unit>
+      <trans-unit id="signedOut" datatype="html">
+        <source>You are signed out.</source>
+        <target state="translated">Tiene la sesión cerrada.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">197</context></context-group></trans-unit>
+      <trans-unit id="delete" datatype="html">
+        <source>Delete</source>
+        <target state="translated">Eliminar</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">201</context></context-group></trans-unit>
+      <trans-unit id="resize" datatype="html">
+        <source>Resize</source>
+        <target state="translated">Cambiar tamaño</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">203</context></context-group></trans-unit>
+
+      <trans-unit id="copyToolTipMessage" datatype="html">
+        <source>Copied</source>
+        <target state="translated">Copiado</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">199</context></context-group></trans-unit>
+      <trans-unit id="91f1e03a7d6f3f6453e53c1ebf91aa1421d49d5e" datatype="html">
+        <source>Users are added to this lab by registering via the following link and registration code:
+</source>
+        <target state="translated">Para agregar usuarios a este laboratorio, se registran mediante el vínculo y el código de registro siguientes:
+</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/copy-user-registration/copy-user-registration.component.html</context><context context-type="linenumber">2</context></context-group></trans-unit>
+    <trans-unit id="quotaIncreaseInstructions" datatype="html">
+        <source>
+        If you need to increase the limit, please send an email to
+        <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />azlabs-preview-quota@microsoft.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />.
+    </source>
+        <target state="new">
+        Si necesita aumentar el límite, envíe un correo electrónico a
+        <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />azlabs-preview-quota@microsoft.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />.
+    </target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">104</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-usage-policy/lab-usage-policy.component.html</context><context context-type="linenumber">27</context></context-group></trans-unit><trans-unit id="labHasAQuota" datatype="html">
+        <source>For preview, the maximum users you can have in this lab is</source>
+        <target state="new">Para la versión preliminar, el número máximo de usuarios que puede haber en el laboratorio es</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">102</context></context-group></trans-unit><trans-unit id="publicEnvironmentDisabled" datatype="html">
+        <source>Virtual machine is not available after publishing.</source>
+        <target state="new">La máquina virtual no está disponible después de publicar.</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">165</context></context-group></trans-unit><trans-unit id="loadingVirtualMachine" datatype="html">
+        <source>Loading your virtual machine...</source>
+        <target state="new">Cargando la máquina virtual...</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">185</context></context-group></trans-unit><trans-unit id="usd" datatype="html">
+        <source>USD</source>
+        <target state="new">USD</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/vm-size/components/vm-size-picker/vm-size-picker.component.html</context><context context-type="linenumber">30</context></context-group></trans-unit><trans-unit id="priceLoadError" datatype="html">
+        <source>Unable to load price at this time.</source>
+        <target state="new">En estos momentos, no se puede cargar el precio.</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">207</context></context-group></trans-unit><trans-unit id="dashboardPageTitle" datatype="html">
+        <source>Dashboard</source>
+        <target state="new">Panel</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">209</context></context-group></trans-unit><trans-unit id="virtualMachinesPageTitle" datatype="html">
+        <source>Virtual machines</source>
+        <target state="new">Máquinas virtuales</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">211</context></context-group></trans-unit><trans-unit id="WelcomeAzureLabs" datatype="html">
+        <source>
+        Welcome to Azure Lab Services
+    </source>
+        <target state="new">
+        Azure Lab Services
+    </target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/welcome/components/landing-page/landing-page.component.html</context><context context-type="linenumber">41</context></context-group></trans-unit><trans-unit id="AzureLabsServicesEnables" datatype="html">
+        <source>
+        Azure Lab Services enables you to easily run a class, set up a training lab, or host a hackathon in the cloud that your students
+        and users can access from anywhere, any time.
+    </source>
+        <target state="new">
+        Azure Lab Services le permite realizar una clase, configurar un laboratorio de aprendizaje u hospedar un hackatón en la nube fácilmente para que sus estudiantes
+            y usuarios puedan acceder en cualquier momento y lugar.
+    </target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/welcome/components/landing-page/landing-page.component.html</context><context context-type="linenumber">46</context></context-group></trans-unit><trans-unit id="publish" datatype="html">
+        <source>Publish</source>
+        <target state="new">Publicar</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">205</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/template/availability-form/availability-form.component.html</context><context context-type="linenumber">5</context></context-group></trans-unit><trans-unit id="NewTolabs" datatype="html">
+        <source>Are you new to Azure Lab Services?</source>
+        <target state="new">¿Es nuevo en Azure Lab Services?</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/welcome/components/getting-started/getting-started.component.html</context><context context-type="linenumber">6</context></context-group></trans-unit><trans-unit id="followthesteps" datatype="html">
+        <source>Follow the steps below to get started.</source>
+        <target state="new">Siga los pasos que se describen a continuación para empezar a usarlo.</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/welcome/components/getting-started/getting-started.component.html</context><context context-type="linenumber">9</context></context-group></trans-unit><trans-unit id="schedulesPageTitle" datatype="html">
+        <source>Schedules</source>
+        <target state="new">Programaciones</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">213</context></context-group></trans-unit><trans-unit id="labCreateFormPasswordRequire" datatype="html">
+        <source>Password is required</source>
+        <target state="new">Se necesita contraseña</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">80</context></context-group></trans-unit><trans-unit id="getanAzureSubcription" datatype="html">
+        <source>Get an Azure subscription</source>
+        <target state="new">Obtener una suscripción a Azure</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">215</context></context-group></trans-unit><trans-unit id="azureLabServicesSummary" datatype="html">
+        <source>
+        Skip this step if you have an existing subscription. If you are new to Azure, create a new account for free.
+    </source>
+        <target state="new">
+        Omita este paso si ya tiene una suscripción. Si es nuevo en Azure, cree una cuenta nueva gratuitamente.
+    </target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">217</context></context-group></trans-unit><trans-unit id="createFreeAccount" datatype="html">
+        <source>Create a free Azure account</source>
+        <target state="new">Crear una cuenta de Azure gratuita</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">240</context></context-group></trans-unit><trans-unit id="addLabAccount" datatype="html">
+        <source>Add a lab account</source>
+        <target state="new">Agregar una cuenta de laboratorio</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">242</context></context-group></trans-unit><trans-unit id="azurePortalAccount" datatype="html">
+        <source>In the Azure Portal, use your Azure subscription to create a lab account which centrally manages your labs.</source>
+        <target state="new">En Azure Portal, use la suscripción a Azure para crear una cuenta de laboratorio que administre los laboratorios de forma central.</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">244</context></context-group></trans-unit><trans-unit id="detailedTutorial" datatype="html">
+        <source>See a detailed tutorial here.</source>
+        <target state="new">Puede ver un tutorial detallado aquí.</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">246</context></context-group></trans-unit><trans-unit id="setupLabAccount" datatype="html">
+        <source>Set up a lab account</source>
+        <target state="new">Configure una cuenta de laboratorio</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">248</context></context-group></trans-unit><trans-unit id="youAreReady" datatype="html">
+        <source>Create your first lab</source>
+        <target state="new">Cree su primer laboratorio</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">250</context></context-group></trans-unit><trans-unit id="classHackathon" datatype="html">
+        <source>Create a lab for your class, hackathon, and more!</source>
+        <target state="new">Cree un laboratorio para su clase, hackatón, etc.</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">252</context></context-group></trans-unit><trans-unit id="goToMyLabs" datatype="html">
+        <source>Sign in to create a lab</source>
+        <target state="new">Inicie sesión para crear un laboratorio</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">254</context></context-group></trans-unit><trans-unit id="stopped" datatype="html">
+        <source>Stopped</source>
+        <target state="new">Detenido</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">256</context></context-group></trans-unit><trans-unit id="unassigned" datatype="html">
+        <source>Unassigned</source>
+        <target state="new">Sin asignar</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">264</context></context-group></trans-unit><trans-unit id="signInButton" datatype="html">
+        <source>
+        </source>
+        <target state="new">
+        </target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/welcome/components/landing-page/landing-page.component.html</context><context context-type="linenumber">27</context></context-group></trans-unit><trans-unit id="existingUserLabel" datatype="html">
+        <source>Already a user?</source>
+        <target state="new">¿Ya es usuario?</target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/welcome/components/landing-page/landing-page.component.html</context><context context-type="linenumber">52</context></context-group></trans-unit><trans-unit id="signInHyperlink" datatype="html">
+        <source>
+            Sign in
+        </source>
+        <target state="new">
+            Iniciar sesión
+        </target><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/welcome/components/landing-page/landing-page.component.html</context><context context-type="linenumber">55</context></context-group></trans-unit><trans-unit id="running" datatype="html">
+        <source>Running</source>
+        <target state="new">Ejecutando</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">258</context></context-group></trans-unit><trans-unit id="stopping" datatype="html">
+        <source>Stopping</source>
+        <target state="new">Deteniendo</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">260</context></context-group></trans-unit><trans-unit id="starting" datatype="html">
+        <source>Starting</source>
+        <target state="new">Iniciando</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">262</context></context-group></trans-unit><trans-unit id="deleting" datatype="html">
+        <source>Deleting</source>
+        <target state="new">Eliminando</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">266</context></context-group></trans-unit><trans-unit id="confirmDeleteEnvironment" datatype="html">
+        <source>
+        This virtual machine will be permanently deleted. Do you want to continue?
+    </source>
+        <target state="new">
+        Esta máquina virtual se eliminará de forma permanente. ¿Quiere continuar?
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">270</context></context-group></trans-unit><trans-unit id="yes" datatype="html">
+        <source>
+        Yes
+    </source>
+        <target state="new">
+        Sí
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">278</context></context-group></trans-unit><trans-unit id="no" datatype="html">
+        <source>
+        No
+    </source>
+        <target state="new">
+        No
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">282</context></context-group></trans-unit><trans-unit id="creating" datatype="html">
+        <source>Creating</source>
+        <target state="new">Creando</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">268</context></context-group></trans-unit><trans-unit id="NoImagesAvailable" datatype="html">
+        <source>
+        You have no images available.
+    </source>
+        <target state="new">
+        No tiene ninguna imagen disponible.
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">286</context></context-group></trans-unit><trans-unit id="labInaccessibleDetails" datatype="html">
+        <source>
+        We are unable to load your lab details at this time.
+    </source>
+        <target state="new">
+        No podemos cargar los detalles de su laboratorio en este momento.
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">294</context></context-group></trans-unit><trans-unit id="noVmsPublish" datatype="html">
+        <source>
+        There are no virtual machines.
+    </source>
+        <target state="new">
+        No hay ninguna máquina virtual.
+    </target>
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">298</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-environment-list/lab-environment-list.component.html</context><context context-type="linenumber">4</context></context-group></trans-unit><trans-unit id="a11yFormOpened" datatype="html">
+        <source>
+        Form opened
+    </source>
+        <target state="new">
+        Formulario abierto
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">334</context></context-group></trans-unit><trans-unit id="a11yPageLandmark" datatype="html">
+        <source>
+        Page
+    </source>
+        <target state="new">
+        Página
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">338</context></context-group></trans-unit><trans-unit id="a11yAppMainPageLandmark" datatype="html">
+        <source>Application main page</source>
+        <target state="new">Página principal de la aplicación</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/app.component.html</context><context context-type="linenumber">13</context></context-group></trans-unit><trans-unit id="a11yUserProfile" datatype="html">
+        <source>
+        User profile
+    </source>
+        <target state="new">
+            Perfil del usuario
+      </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">342</context></context-group></trans-unit><trans-unit id="a11yMenuCollapsed" datatype="html">
+        <source>
+        Menu collapsed
+    </source>
+        <target state="new">
+            Menú contraído
+      </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">346</context></context-group></trans-unit><trans-unit id="a11yMenuExpanded" datatype="html">
+        <source>
+        Menu expanded
+    </source>
+        <target state="new">
+            Menú expandido
+      </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">350</context></context-group></trans-unit><trans-unit id="a11yLabStateSucceeded" datatype="html">
+        <source>
+        Lab status is succeeded
+    </source>
+        <target state="new">
+        El estado del laboratorio es Correcto
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">354</context></context-group></trans-unit><trans-unit id="a11yLabStateLoading" datatype="html">
+        <source>
+        Lab status is loading
+    </source>
+        <target state="new">
+        El estado del laboratorio es Cargando
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">358</context></context-group></trans-unit><trans-unit id="a11yLabStateFailed" datatype="html">
+        <source>
+        Lab status is failed
+    </source>
+        <target state="new">
+        El estado del laboratorio es Erróneo
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">362</context></context-group></trans-unit><trans-unit id="a11ylabCardOptionsAriaLabel" datatype="html">
+        <source>
+        Lab card options
+    </source>
+        <target state="new">
+        Opciones de la tarjeta del laboratorio
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">366</context></context-group></trans-unit><trans-unit id="userDisplayName" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{0}}" /> <x id="INTERPOLATION_1" equiv-text="{{1}}" /></source>
+        <target state="new"><x id="INTERPOLATION" equiv-text="{{0}}" /> <x id="INTERPOLATION_1" equiv-text="{{1}}" /></target>
+
+        <note priority="1" from="description">{{0}} is the given name and {{1}} is the surname</note>
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">371</context></context-group></trans-unit><trans-unit id="pageNotFound" datatype="html">
+        <source>
+        Page not found
+    </source>
+        <target state="new">
+        Página no encontrada
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">330</context></context-group></trans-unit><trans-unit id="a11yPleaseSelectRegion" datatype="html">
+        <source>
+        Please select a region
+    </source>
+        <target state="new">
+        Seleccione una región
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">373</context></context-group></trans-unit><trans-unit id="youHaveNoResources" datatype="html">
+        <source>We can't find anything that belongs to you.</source>
+        <target state="new">No podemos encontrar nada que le pertenezca.</target>
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">221</context></context-group></trans-unit><trans-unit id="didYouWantToCreateLate" datatype="html">
+        <source>Did you want to create a lab?</source>
+        <target state="new">¿Quería crear un laboratorio?</target>
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">223</context></context-group></trans-unit><trans-unit id="wereYouInvited" datatype="html">
+        <source>Were you invited to a lab?</source>
+        <target state="new">¿Recibió una invitación para un laboratorio?</target>
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">225</context></context-group></trans-unit><trans-unit id="inviteInstructions" datatype="html">
+        <source>If you were, you should have received a registration link. Go to the link to register and get access to the lab.
+            </source>
+        <target state="new">Si es el caso, debería haber recibido un vínculo de registro. Vaya al vínculo para registrarse y obtener acceso al laboratorio.
+            </target>
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/form/components/no-vms/no-vms.component.html</context><context context-type="linenumber">45</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">227</context></context-group></trans-unit><trans-unit id="inviteInstructionsTwo" datatype="html">
+        <source>Your registration link will look like this:</source>
+        <target state="new">El vínculo de registro tendrá un aspecto similar al siguiente:</target>
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/form/components/no-vms/no-vms.component.html</context><context context-type="linenumber">47</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">229</context></context-group></trans-unit><trans-unit id="registerUrlExample" datatype="html">
+        <source>http://labs.azure.com/register/abcdefg</source>
+        <target state="new">http://labs.azure.com/register/abcdefg</target>
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/form/components/no-vms/no-vms.component.html</context><context context-type="linenumber">48</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">231</context></context-group></trans-unit><trans-unit id="createLabInstructionsLink" datatype="html">
+        <source>
+                    If you want to create your own, follow the steps to get started
+                </source>
+        <target state="new">
+                    Si quiere crear el suyo propio, siga los pasos para empezar.
+                </target>
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/form/components/no-vms/no-vms.component.html</context><context context-type="linenumber">33</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">233</context></context-group></trans-unit><trans-unit id="createLabExplanation" datatype="html">
+        <source>
+                You first need to be part of a lab account to be able to create labs. If your work or school organization already has a lab
+                account in Azure Lab Services, contact your admin to be added.
+            </source>
+        <target state="new">
+                Primero, debe formar parte de una cuenta de laboratorio para poder crear laboratorios. Si su organización profesional o educativa ya tiene
+                una cuenta de laboratorio en Azure Lab Services, póngase en contacto con su administrador para que le agregue.
+            </target>
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/form/components/no-vms/no-vms.component.html</context><context context-type="linenumber">28</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">235</context></context-group></trans-unit><trans-unit id="deleteEnvironmentTitle" datatype="html">
+        <source>
+        Delete virtual machine
+    </source>
+        <target state="new">
+            Eliminar la máquina virtual
+      </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">274</context></context-group></trans-unit><trans-unit id="creatingTemplate" datatype="html">
+        <source>
+        We are creating your template
+    </source>
+        <target state="new">
+        Estamos creando su plantilla
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">377</context></context-group></trans-unit><trans-unit id="takeFewMinutes" datatype="html">
+        <source>
+        This will take a few minutes...
+    </source>
+        <target state="new">
+        Es posible que el proceso tarde unos minutos...
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">381</context></context-group></trans-unit><trans-unit id="gettingLabReady" datatype="html">
+        <source>
+        Getting your lab ready...
+    </source>
+        <target state="new">
+        Preparando el laboratorio
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">385</context></context-group></trans-unit><trans-unit id="ready" datatype="html">
+        <source>
+        Ready!
+    </source>
+        <target state="new">
+        ¡Listo!
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">389</context></context-group></trans-unit><trans-unit id="templateSuccessfullyCreated" datatype="html">
+        <source>
+        Template successfully created! Let's set it up.
+    </source>
+        <target state="new">
+        La plantilla se creó correctamente. Vamos a configurarla.
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">393</context></context-group></trans-unit><trans-unit id="goToMyLab" datatype="html">
+        <source>Go to my lab</source>
+        <target state="new">Ir a mi laboratorio</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/template-wizard/steps/lab-creation-info/creation-pages/creation-page-one.component.html</context><context context-type="linenumber">27</context></context-group></trans-unit><trans-unit id="somethingWrong" datatype="html">
+        <source>
+        Something is wrong!
+    </source>
+        <target state="new">
+        Hubo un problema
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">397</context></context-group></trans-unit><trans-unit id="usersPageTitle" datatype="html">
+        <source>Users</source>
+        <target state="new">Usuarios</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">401</context></context-group></trans-unit><trans-unit id="WizardPrevious" datatype="html">
+        <source>Previous</source>
+        <target state="new">Anterior</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/form/components/wizard-host/wizard-host.component.html</context><context context-type="linenumber">26</context></context-group></trans-unit><trans-unit id="invalidWindowsUserNameFormat" datatype="html">
+        <source>Username cannot end with a period (.) or contain the following characters:</source>
+        <target state="new">El nombre de usuario no puede terminar con un punto (.) ni contener los siguientes caracteres:</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">191</context></context-group></trans-unit><trans-unit id="invalidLinuxUserNameFormat" datatype="html">
+        <source>Username cannot start with '$' or '-', contain uppercase letters or special characters:</source>
+        <target state="new">El nombre de usuario no puede comenzar con "$" ni "-", ni contener letras mayúsculas o caracteres especiales:</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">193</context></context-group></trans-unit><trans-unit id="credentialsTitle" datatype="html">
+        <source>
+        Credentials
+    </source>
+        <target state="new">
+            Credenciales
+      </target>
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">407</context></context-group></trans-unit><trans-unit id="userRegisteredStatus" datatype="html">
+        <source>
+        Registered
+    </source>
+        <target state="new">
+            Registrado
+      </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">415</context></context-group></trans-unit><trans-unit id="userRegisteredStatusUnAvailable" datatype="html">
+        <source>
+        Status unavailable
+    </source>
+        <target state="new">
+            Estado no disponible
+      </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">419</context></context-group></trans-unit><trans-unit id="userSettingsPageTitle" datatype="html">
+        <source>User settings</source>
+        <target state="new">Configuración del usuario</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">423</context></context-group></trans-unit><trans-unit id="noUsersRegisterd" datatype="html">
+        <source>
+        There are no users.
+    </source>
+        <target state="new">
+           No hay usuarios.
+     </target>
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">425</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-user-list/lab-user-list.component.html</context><context context-type="linenumber">13</context></context-group></trans-unit><trans-unit id="usersLoadError" datatype="html">
+        <source>
+        Users could not be loaded
+    </source>
+        <target state="new">
+           Los usuarios no pudieron cargarse
+     </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">429</context></context-group></trans-unit><trans-unit id="numUsersLabel" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{0}}" /> user(s)
+    </source>
+        <target state="new"><x id="INTERPOLATION" equiv-text="{{0}}" /> usuario(s)
+    </target>
+
+        <note priority="1" from="description">{{0}} is the number of users registered</note>
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">404</context></context-group></trans-unit><trans-unit id="getRegistrationLink" datatype="html">
+        <source>
+        Registration link
+    </source>
+        <target state="new">
+            Enlace de registro
+      </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">411</context></context-group></trans-unit><trans-unit id="sizeLoadingError" datatype="html">
+        <source>
+        There was an error loading virtual machine sizes.
+    </source>
+        <target state="new">
+        Se produjo un error al cargar los tamaños de las máquinas virtuales.
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">433</context></context-group></trans-unit><trans-unit id="regionLoadingError" datatype="html">
+        <source>
+        There was an error loading regions.
+    </source>
+        <target state="new">
+        Se produjo un error al cargar las regiones.
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">437</context></context-group></trans-unit><trans-unit id="imageLoadingError" datatype="html">
+        <source>
+        There was an error loading images.
+    </source>
+        <target state="new">
+        Se produjo un error al cargar las imágenes.
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">441</context></context-group></trans-unit><trans-unit id="wizardNext" datatype="html">
+        <source>Next</source>
+        <target state="new">Siguiente</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">445</context></context-group></trans-unit><trans-unit id="wizardSave" datatype="html">
+        <source>Save</source>
+        <target state="new">Guardar</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">447</context></context-group></trans-unit><trans-unit id="wizardDone" datatype="html">
+        <source>Done</source>
+        <target state="new">Listo</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">449</context></context-group></trans-unit><trans-unit id="templateWizardCreate" datatype="html">
+        <source>Create</source>
+        <target state="new">Crear</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">451</context></context-group></trans-unit><trans-unit id="maxQuotaValidation" datatype="html">
+        <source>
+        Please enter a value less than 250,000,000.
+    </source>
+        <target state="new">
+        Escriba un valor menor que 250 000 000.
+    </target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">113</context></context-group></trans-unit><trans-unit id="quotaPolicy" datatype="html">
+        <source>Quota per user</source>
+        <target state="new">Cuota por usuario</target>
+
+
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">453</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-user-settings/lab-user-settings.component.html</context><context context-type="linenumber">13</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-quota-policy/lab-quota-policy.component.html</context><context context-type="linenumber">5</context></context-group></trans-unit><trans-unit id="quotaDisabled" datatype="html">
+        <source>No quota set</source>
+        <target state="new">No hay ninguna cuota establecida</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">455</context></context-group></trans-unit><trans-unit id="templateWizardImageStepTitle" datatype="html">
+        <source>Virtual machines</source>
+        <target state="new">Máquinas virtuales</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">463</context></context-group></trans-unit><trans-unit id="templateWizardCredentialsStepTitle" datatype="html">
+        <source>Credentials</source>
+        <target state="new">Credenciales</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">465</context></context-group></trans-unit><trans-unit id="templateWizardCreatingStepTitle" datatype="html">
+        <source>Template</source>
+        <target state="new">Creando plantilla</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">467</context></context-group></trans-unit><trans-unit id="templateWizardConfigureStepTitle" datatype="html">
+        <source>Publish</source>
+        <target state="new">Publicar</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">469</context></context-group></trans-unit><trans-unit id="enableQuotaPrompt" datatype="html">
+        <source>Limit the number of hours a user can use a VM</source>
+        <target state="new">Limitar la cantidad de horas durante las cuales un usuario puede usar una VM</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-quota-policy/lab-quota-policy.component.html</context><context context-type="linenumber">12</context></context-group></trans-unit><trans-unit id="setQuotaPrompt" datatype="html">
+        <source>How many hours do you want to give to each user?</source>
+        <target state="new">¿Cuántas horas desea otorgar a cada usuario?</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-quota-policy/lab-quota-policy.component.html</context><context context-type="linenumber">19</context></context-group></trans-unit><trans-unit id="quotaInHours" datatype="html">
+        <source>Number of hours</source>
+        <target state="new">Número de horas</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-quota-policy/lab-quota-policy.component.html</context><context context-type="linenumber">24</context></context-group></trans-unit><trans-unit id="minQuotaValidation" datatype="html">
+        <source>
+        The quota in this lab must be greater than zero.
+    </source>
+        <target state="new">
+        La cuota en este laboratorio debe ser mayor que cero.
+    </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context>
+          <context context-type="linenumber">109</context>
+        </context-group>
+      </trans-unit><trans-unit id="validateTimeSpan" datatype="html">
+        <source>
+        Please enter a valid number.
+    </source>
+        <target state="new">
+        Escriba un número válido.
+    </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+      </trans-unit><trans-unit id="ConnectVirtualmachine" datatype="html">
+        <source>1. Connect to the virtual machine.</source>
+        <target state="new">1. Conéctese a la máquina virtual.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/template-wizard/steps/template-configuration/template-configuration.component.html</context><context context-type="linenumber">16</context></context-group></trans-unit><trans-unit id="ConfigureInstallSoft" datatype="html">
+        <source>2. Configure and install software on your template virtual machine.</source>
+        <target state="new">2. Instale y configure el software en la máquina virtual de plantilla.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/template-wizard/steps/template-configuration/template-configuration.component.html</context><context context-type="linenumber">21</context></context-group></trans-unit><trans-unit id="StopVirtualmachine" datatype="html">
+        <source>3. Stop the virtual machine if you want to finish later. If it is left running, it will incur cost.</source>
+        <target state="new">3. Detenga la máquina virtual si quiere finalizar más tarde. Si se deja en ejecución, incurrirá en gastos.</target>
+
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/template-wizard/steps/template-configuration/template-configuration.component.html</context><context context-type="linenumber">25</context></context-group></trans-unit><trans-unit id="hours" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{0}}" /> hours</source>
+        <target state="new"><x id="INTERPOLATION" equiv-text="{{0}}" /> horas</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">458</context></context-group><note from="description" priority="1">{{0}} hours</note></trans-unit><trans-unit id="unsavedWizard" datatype="html">
+        <source>You made unsaved changes. Are you sure you want to leave the wizard?</source>
+        <target state="new">Tiene cambios sin guardar. ¿Está seguro de que desea salir del asistente?</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">479</context></context-group></trans-unit><trans-unit id="templateCreationTip" datatype="html">
+        <source>Once the template is ready, we will take you through the steps to configure and publish it.</source>
+        <target state="new">Una vez la plantilla esté lista, le dirigiremos por los pasos para configurarla y publicarla.</target>
+        
+        
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">481</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/template-wizard/steps/lab-creation-info/creation-pages/creation-page-one.component.html</context><context context-type="linenumber">2</context></context-group></trans-unit><trans-unit id="templateSizeandImageTip" datatype="html">
+        <source>A template virtual machine will be created from the choices you make here. Once a lab is published, each user will get
+        a virtual machine that is a copy of the template.</source>
+        <target state="new">Se creará una máquina virtual de plantilla a partir de las opciones que elija aquí. Una vez que se publique un laboratorio, cada usuario obtendrá
+        una máquina virtual que será una copia de la plantilla.</target>
+        
+        
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">483</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/template-wizard/steps/template-size-and-image/template-size-and-image.component.html</context><context context-type="linenumber">2</context></context-group></trans-unit><trans-unit id="templateConfigurationTip" datatype="html">
+        <source>Set up the virtual machine here so that it is configured with exactly what you want to provide to your lab users. You
+        can continue to configure up until you publish the lab.</source>
+        <target state="new">Configure la máquina virtual aquí para que tenga exactamente lo que quiere ofrecer a los usuarios de su laboratorio.
+          Puede continuar con la configuración hasta que publique el laboratorio.</target>
+        
+        
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">486</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/template-wizard/steps/template-configuration/template-configuration.component.html</context><context context-type="linenumber">2</context></context-group></trans-unit><trans-unit id="templateCredentialTip" datatype="html">
+        <source>Make note of the username and password. They won't be shown again.</source>
+        <target state="new">Tome nota del nombre de usuario y la contraseña. No volverán a aparecer.</target>
+        
+        
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">489</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/template-wizard/steps/lab-credentials/lab-credentials.component.html</context><context context-type="linenumber">2</context></context-group></trans-unit><trans-unit id="hoursUsed" datatype="html">
+        <source>hours used</source>
+        <target state="new">horas usadas</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">491</context></context-group><context-group purpose="location"><context context-type="sourcefile">ClientApp/app/environment/components/environment-card/environment-card.component.html</context><context context-type="linenumber">8</context></context-group></trans-unit><trans-unit id="nameYourLab" datatype="html">
+        <source>Name your lab</source>
+        <target state="new">Asigne un nombre al laboratorio</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">ClientApp/app/lab/components/lab-create-form/lab-create-form.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit><trans-unit id="quotaCanBeChanged" datatype="html">
+        <source>
+                You can always increase or decrease the number of users later.
+            </source>
+        <target state="new">
+                Siempre puede aumentar o disminuir el número de usuarios más adelante.
+            </target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/lab/components/lab-create-form/lab-create-form.component.html</context><context context-type="linenumber">42</context></context-group></trans-unit><trans-unit id="pleaseWait" datatype="html">
+        <source>Please wait...</source>
+        <target state="new">Espere…</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">493</context></context-group></trans-unit><trans-unit id="labWizardError" datatype="html">
+        <source>An unexpected error has occurred.</source>
+        <target state="new">Se produjo un error inesperado.</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">495</context></context-group></trans-unit><trans-unit id="labWizardErrorDetails" datatype="html">
+        <source>Please refresh the page and try again.</source>
+        <target state="new">Actualice la página y vuelva a intentarlo.</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">497</context></context-group></trans-unit><trans-unit id="templateWizardImageStepHeader" datatype="html">
+        <source>Select virtual machine specifications</source>
+        <target state="new">Seleccionar las especificaciones de la máquina virtual</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">471</context></context-group></trans-unit><trans-unit id="templateWizardCredentialsStepHeader" datatype="html">
+        <source>Set credentials</source>
+        <target state="new">Establecer credenciales</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">473</context></context-group></trans-unit><trans-unit id="templateWizardCreatingStepHeader" datatype="html">
+        <source>Creating template</source>
+        <target state="new">Creando plantilla</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">475</context></context-group></trans-unit><trans-unit id="templateWizardConfigureStepHeader" datatype="html">
+        <source>Configure template</source>
+        <target state="new">Configurar plantilla</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context><context context-type="linenumber">477</context></context-group></trans-unit><trans-unit id="publishImageTip" datatype="html">
+        <source>When you publish the lab, a copy of the template will be created for each user.
+                             Users will get their machines automatically when they join the lab.</source>
+        <target state="new">Cuando publique el laboratorio, se creará una copia de la plantilla para cada usuario.
+                             Los usuarios obtendrán las máquinas automáticamente cuando se unan al laboratorio.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">ClientApp/app/lab/components/template-wizard/steps/template-publish/template-publish.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit><trans-unit id="hoursRequired" datatype="html">
+        <source>Number of hours is required.</source>
+        <target state="new">Se requiere el número de horas.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+      </trans-unit><trans-unit id="hour" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{0}}" /> hour</source>
+        <target state="new"><x id="INTERPOLATION" equiv-text="{{0}}" /> hora</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">ClientApp/app/core/components/language/language.component.html</context>
+          <context context-type="linenumber">461</context>
+        </context-group>
+        <note priority="1" from="description">{{0}} hour</note>
+      </trans-unit></body>
+  </file>
+</xliff>
